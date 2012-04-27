@@ -125,6 +125,7 @@ if ($('body').attr('id').search(/comp-Ticket/) == 0) {
   $('div.btn-toolbar a[href^="/Ticket/Create.html"]').prepend('<i class="icon-tags"></i> ');
 
   // Add custom buttons
+  /*
   $('div.btn-toolbar').prepend(
   '<div class="btn-group">' +
     '<a href="/Ticket/Display.html?Status=userwait&amp;id=' +
@@ -138,6 +139,7 @@ if ($('body').attr('id').search(/comp-Ticket/) == 0) {
     //'" class="btn"><i class="icon-folder-open"></i> Open</a>' +
   '</div>'
   );
+  */
   $('div.btn-toolbar').prepend($('div.btn-toolbar form'));
 }
 //$('ul#actions-menu').find('li.separator').remove();
