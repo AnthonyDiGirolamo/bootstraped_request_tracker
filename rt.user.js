@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name           Bootstraped Request Tracker
-// @namespace      https://rt.ccs.ornl.gov/
-// @include        https://rt.ccs.ornl.gov/*
+// @namespace      http://rt.easter-eggs.org/demos/oldstable/
 // @include        http://rt.easter-eggs.org/demos/oldstable/*
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // ==/UserScript==
