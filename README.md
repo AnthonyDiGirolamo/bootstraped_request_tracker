@@ -8,3 +8,7 @@ attempts to reformat RT more to my liking.
 If you have Greasemonkey installed already, click this link to add the script:
 
 https://github.com/AnthonyDiGirolamo/bootstraped_request_tracker/raw/master/rt.user.js
+
+After installation, edit the script and set the include line to whatever RT instance you need:
+
+    // @include        http://rt.easter-eggs.org/demos/oldstable/*
